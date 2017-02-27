@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="S#1">Search #1</a></td></tr>
+<tr><td><a href="S#1b">Search #1b</a></td></tr>
+<tr><td><a href="S#2">Search #2</a></td></tr>
+<tr><td><a href="S#3">Search #3</a></td></tr>
+<tr><td><a href="S#4">Search #4</a></td></tr>
+<tr><td><a href="S#5">Search #5</a></td></tr>
+<tr><td><a href="S#6">Search #6</a></td></tr>
+<tr><td><a href="S#7">Search #7</a></td></tr>
+<tr><td><a href="S#8">Search #8</a></td></tr>
+<tr><td><a href="S#9">Search #9</a></td></tr>
+<tr><td><a href="Sp#1">Species #1</a></td></tr>
+<tr><td><a href="Sp#2">Species #2</a></td></tr>
+<tr><td><a href="Sp#3">Species #3</a></td></tr>
+<tr><td><a href="Sp#4">Species #4</a></td></tr>
+<tr><td><a href="Sp#5">Species #5</a></td></tr>
+</tbody></table>
+</body>
+</html>
